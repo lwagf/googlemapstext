@@ -1,0 +1,12 @@
+{
+  "name": "googlemapstext",
+  "version": "0.0.1",
+  "description": "Wrapper for the maps/api/place/textsearch endpoint",
+  "main": "googlemapstext.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lwagf/googlemapstext.git"
+  },
+  "author": "lwagf",
+  "license": "ISC"
+}
