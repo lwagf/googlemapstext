@@ -1,10 +1,10 @@
-#GoogleMapsText
+# GoogleMapsText
 
 Given a string, this hits the Google Places API and returns a JSON object of results.
 
 [Don't have a key?](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-##Usage
+## Usage
 
 ```
 var googlemapstext = require('googlemapstext');
